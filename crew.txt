@@ -1,9 +1,13 @@
-Capitain: 
-Cook: 
-Pilot: 
-Cleaner: 
+Capitain:  Seong Yeong
+Cook: Annelinde
+Pilot: Dennis
+Cleaner: Roberto
 Guests:
- - 
- - 
- - ...
+ - Emanouel
+ - Quinten B.
+ - Quinten C.
+ - Vincenzo
+
+ 
+ 
 
